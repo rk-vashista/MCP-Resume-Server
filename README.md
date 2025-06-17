@@ -81,17 +81,6 @@ ngrok http 8085
 # https://abcd-1234-5678-9012.ngrok-free.app/mcp
 ```
 
-## 🔗 Integration with Puch AI
-
-### Connect your server:
-```
-/mcp connect <YOUR_NGROK_URL>/mcp <YOUR_TOKEN>
-```
-
-### Example:
-```
-/mcp connect https://abcd-1234-5678-9012.ngrok-free.app/mcp your_application_key
-```
 
 ## 📁 Project Structure
 
